@@ -1,0 +1,5 @@
+url,expected_result
+https://www.google.com,Review URL
+http://example-suspicious-site.test,Suspicious URL
+invalid-url,Invalid URL
+,Empty input
